@@ -5,4 +5,4 @@ busqueda_radio2=finanzas personales y economia
 busqueda_radioglobal=rock
 url=https://youtu.be/xRM38_g0HPg?si=vey0SEEAmGeobIaE
 volumen=60
-porcentaje_radioglobal=8
+porcentaje_radioglobal=83
